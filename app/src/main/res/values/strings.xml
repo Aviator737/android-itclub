@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">it-club android</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="hello_button">Кнопка</string>
+</resources>
